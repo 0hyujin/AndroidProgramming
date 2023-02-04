@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">week3</string>
+    <string name="long_text">Android is a mobile</string>
+    <string name="bold_italic">bold and italic</string>
+    <string name="Input_your_name">Input your name.</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="action">BUTTON</string>
+    <string name="text_align">Text center</string>
+    <string name="normal_edit_text">Normal Edit Text</string>
+    <string name="password_edit_text">Password Edit Text</string>
+    <string name="email_edit_text">Email Edit Text</string>
+</resources>
